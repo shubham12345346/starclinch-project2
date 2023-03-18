@@ -1,0 +1,52 @@
+#tv {
+    position: relative;
+    width: 200px;
+    height: 150px;
+    margin: 20px 0;
+    background: black;
+    border-radius: 50% / 10%;
+    color: white;
+    text-align: center;
+    text-indent: .1em;
+  }
+  #tv:before {
+    content: '';
+    position: absolute;
+    top: 10%;
+    bottom: 10%;
+    right: -5%;
+    left: -5%;
+    background: inherit;
+    border-radius: 5% / 50%;
+  }
+  
+  .box1{
+    display: flex;
+    justify-content: center;
+    text-align: cemter;
+  }
+
+  .fcontainer{
+     display: flex;
+     justify-content:center;
+     align-items: center;
+
+  }
+
+  .fitem{
+    text-align: center;
+  }
+
+  h4{
+    margin-left: 20%;
+  }
+
+  h5{
+    margin-left: 20%;
+}
+
+.item2{
+  margin-left: 40%;
+  margin-bottom: 20%;
+}
+
