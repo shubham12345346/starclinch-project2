@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/starclinch-project2/static/css/main.28b6c1cc.css",
+    "main.js": "/starclinch-project2/static/js/main.b1acefb4.js",
+    "static/js/787.0f6899b9.chunk.js": "/starclinch-project2/static/js/787.0f6899b9.chunk.js",
+    "static/media/1.jpg": "/starclinch-project2/static/media/1.6e4d687f5986929de21f.jpg",
+    "static/media/6.jpg": "/starclinch-project2/static/media/6.9dfac6e56d9e5ea4b27a.jpg",
+    "static/media/2.webp": "/starclinch-project2/static/media/2.8eb299dc5b3275891e41.webp",
+    "static/media/5.jpg": "/starclinch-project2/static/media/5.b283be14e70ce769b91a.jpg",
+    "static/media/4.webp": "/starclinch-project2/static/media/4.dd591afc9e053ef5678b.webp",
+    "index.html": "/starclinch-project2/index.html",
+    "main.28b6c1cc.css.map": "/starclinch-project2/static/css/main.28b6c1cc.css.map",
+    "main.b1acefb4.js.map": "/starclinch-project2/static/js/main.b1acefb4.js.map",
+    "787.0f6899b9.chunk.js.map": "/starclinch-project2/static/js/787.0f6899b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28b6c1cc.css",
+    "static/js/main.b1acefb4.js"
+  ]
+}
